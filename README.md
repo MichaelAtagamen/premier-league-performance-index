@@ -1,27 +1,34 @@
-# Premier League Club Performance & Discipline Index
+# Premier League Team Performance Composite Index
 
-This project builds a composite indicator for Premier League teams across multiple seasons using match-level CSV data from Football-Data.co.uk.
+## Project Overview
 
-## Main notebook
-Open and run:
+This project develops a composite index to compare Premier League teams using football performance data. The index combines attacking, defensive and discipline-based indicators into one final score.
 
-`notebooks/01_premier_league_index.ipynb`
+## Main Features
 
-## Install requirements
+- Uses multiple seasons of Premier League match data
+- Creates a team-season dataset
+- Checks missing values
+- Applies normalisation
+- Builds attack, defence and discipline sub-indices
+- Combines sub-indices into a final composite index
+- Performs clustering analysis
+- Produces visualisations
+- Includes a written report
+
+## Tools Used
+
+- Python
+- Jupyter Notebook
+- pandas
+- numpy
+- matplotlib
+- scikit-learn
+- Git and GitHub
+
+## How to Run
+
+1. Install requirements:
+
 ```bash
-pip install -r requirements.txt
-```
-
-## Output files
-- `data/raw/` downloaded season CSVs
-- `data/processed/team_season_index.csv`
-- `visuals/` generated charts
-- `report/report_draft.md`
-
-## Git workflow
-Commit after each meaningful change.
-Example:
-```bash
-git add .
-git commit -m "Add data download and cleaning section"
-```
+py -m pip install -r requirements.txt
