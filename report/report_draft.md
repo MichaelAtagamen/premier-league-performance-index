@@ -291,7 +291,7 @@ Despite these limitations, the index provides a structured and transparent way t
 
 ## 13. AI Acknowledgement
 
-Generative AI was used to support project planning, code structuring, explanation drafting, debugging, and report organisation. All final outputs were reviewed, edited, and adapted by the student. The student remained responsible for the final interpretation, submission, and academic integrity of the work.
+Generative AI was used to support project planning, code structuring, explanation drafting, debugging, and report organisation. All final outputs were reviewed, edited, and adapted by the student. The student remained responsible for the final interpretation, submission, and academic integrity of the work. This follows DKIT POLICY OF ACADEMICS.
 
 ---
 
