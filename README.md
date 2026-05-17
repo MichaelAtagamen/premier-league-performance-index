@@ -15,6 +15,7 @@ This project develops a composite index to compare Premier League teams using fo
 - Performs clustering analysis
 - Produces visualisations
 - Includes a written report
+- Maintain data analysis report 
 
 ## Tools Used
 
