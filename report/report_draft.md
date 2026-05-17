@@ -252,6 +252,7 @@ The cluster plot shows how team-seasons are grouped based on attack, defence, an
 ### Correlation Matrix
 
 The correlation matrix shows relationships between indicators. It supports the multivariate analysis section by showing how the final index relates to sub-indices, points, and league rank.
+Showing and outlining key correlation values
 
 ---
 
