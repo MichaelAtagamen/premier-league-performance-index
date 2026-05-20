@@ -33,3 +33,16 @@ This project develops a composite index to compare Premier League teams using fo
 
 ```bash
 py -m pip install -r requirements.txt
+
+## Final Submission
+
+This repository contains the completed Data Analysis and Visualization CA1 project.
+
+Included files:
+- Jupyter Notebook analysis
+- Processed team-season index dataset
+- Visualisation outputs
+- Final project report
+- GitHub repository URL file
+
+The final Moodle submission ZIP includes the report, notebook, outputs, README, requirements file, and repository URL.
