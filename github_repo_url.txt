@@ -1,0 +1,11 @@
+GitHub Repository:
+https://github.com/MichaelAtagamen/premier-league-performance-index
+
+Student:
+Michael Atagamen
+
+Project:
+Premier League Team Performance Composite Index
+
+Module:
+Data Analysis and Visualization CA1
